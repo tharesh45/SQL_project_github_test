@@ -62,4 +62,5 @@ print("ALL DATA IMPORTED SUCCESSFULLY!")
 sqlite_conn.close()
 pg_conn.close()
 # Testing GitHub connections
-# GitHub test
+# GitHub test - updated
+# Testing GitHub push
